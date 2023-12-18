@@ -1,0 +1,2 @@
+[剑桥大学出版社的Ca... - @Puzzler_红叶的微博 - 微博 (weibo.com)](https://weibo.com/1790003322/Nkk7PfjoZ?pagetype=fav)
+剑桥大学出版社的Cambridge Elements系列中的一些书，会在电子版出版后不久限时免费一段时间。比如这本Valentin Goranko的Temporal Logics（也不知道截图能不能顺利发出来……）。 ​​​

@@ -1,0 +1,13 @@
+---
+type: web-bookmark
+date: 2023-12-03 23:54
+dg-publish: false
+archive: 
+tags:
+---
+原文：[重做了系统之后我才恍... - @巨蜥的微博 - 微博 (weibo.com)](https://weibo.com/2158133667/L3HyexcMR?pagetype=fav)
+
+---
+
+重做了系统之后我才恍然大悟，Windows 10的搜索索引服务默认情况下包括“我的文档”，然后 QQ 默认把聊天记录存到“我的文档”，然后 QQ 那个傻缺的 group2存储群图片的做法崩掉了自己的文件清理，于是群聊图片多的情况下，group2疯狂积累小文件，搜索索引疯狂积累索引，然后塞满了 C 盘劣化了性能，在不知道 group2这个破事的情况下还清理不掉。  
+解决方法也很烦人，首先把QQ的Tencent Files\qq号\Image\Group2用mklink链接到Group，这样自带的文件清理就能清理了，然后调整索引服务，不索引Image这个文件夹，最后重建搜索索引。

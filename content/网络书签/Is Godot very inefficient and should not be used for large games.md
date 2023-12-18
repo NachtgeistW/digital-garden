@@ -1,0 +1,2 @@
+#Godot 
+Juan Linietsky on X: "For some reason, this old 2018 issue has resurfaced the past days and used by several persons to justify that Godot is very inefficient and should not be used for large games. It's been 5 years and Godot 4 is now all new code, so I added an answer. https://t.co/dG6t5cdc6T" / X
