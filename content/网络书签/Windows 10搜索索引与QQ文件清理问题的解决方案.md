@@ -1,7 +1,7 @@
 ---
 type: web-bookmark
 date: 2023-12-03 23:54
-dg-publish: false
+publish: false
 archive: 
 tags:
 ---
