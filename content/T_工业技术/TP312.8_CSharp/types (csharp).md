@@ -57,7 +57,7 @@ class Entry
 	- 格式为 `interface I {...}` 的用户定义类型
 - [数组类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/arrays/)
 	- 一维、多维和交错。例如：int[]、int[,] 和 int[][]
-- [ [[委托]]类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/reference-types#the-delegate-type)
+- [[delegate (csharp)|委托]]类型
 	- 格式为 `delegate int D(...)` 的用户定义类型
 
 # Reference Links

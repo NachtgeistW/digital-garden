@@ -6,7 +6,7 @@ tags:
 - whats_new
 ---
 
-- [[primary constructors  (CSharp）|主构造函数]]
+- [[primary constructors  (csharp)|主构造函数]]
 - [[collection expression|集合表达式]]
 - [[inline arrays|内联数组]]
 - [[默认 lambda 表达式参数]]
