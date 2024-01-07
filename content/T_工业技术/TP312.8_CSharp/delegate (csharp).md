@@ -17,6 +17,9 @@ tags:
 
 ```csharp
 // An example of create and use delegate
+// Declare a delegate
+public delegate void Callback(string message);
+
 // Create a method for a delegate.
 public static void DelegateMethod(string message)
 {
