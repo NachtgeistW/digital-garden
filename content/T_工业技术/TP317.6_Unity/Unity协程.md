@@ -79,7 +79,7 @@ yield的语义应该是从协程里面往外带出数据
 你自己處理yield...  
   
  \[\[nodiscard, deprecated\]\] consteval Chlorie make_chlorie(); 2023/11/3 17:01:37  
-挂起协程之后从外部[[回调]]往协程里面带入数据的不应该是[[await]]吗  
+挂起协程之后从外部[[callback|回调]]往协程里面带入数据的不应该是 [[await]] 吗  
   
 【Metal】 ((Func‹string›) (() =› "不會")).Invoke(); 2023/11/3 17:01:39  
 應該屬於是單工多任務協程模型  
