@@ -38,10 +38,10 @@ Being a great developer means being efficient in coding. It’s not something yo
 
 We’re not going too deep on the coding; there are better teachers than me out there who share practical wisdom on how to master the machine. Here are some books purely on coding/programming that will boost your skills immensely:
 
-- _Cracking the Coding Interview_, McDowell [[Link to Amazon]](https://www.amazon.com/dp/0984782850)
-- _Introduction to Algorithms_, Cormen [[Link to Amazon]](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/)
-- _Clean Code_, Martin [[Link to Amazon]](https://www.amazon.com/dp/0132350882)
-- _Coders at Work_, Seibel [[Link to Amazon]](https://www.amazon.com/gp/product/1430219483)
+- _Cracking the Coding Interview_, McDowell [Link to Amazon](https://www.amazon.com/dp/0984782850)
+- _Introduction to Algorithms_, Cormen [Link to Amazon](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/)
+- _Clean Code_, Martin [Link to Amazon](https://www.amazon.com/dp/0132350882)
+- _Coders at Work_, Seibel [Link to Amazon](https://www.amazon.com/gp/product/1430219483)
 
 _(not affiliate links, not making any money here)_
 

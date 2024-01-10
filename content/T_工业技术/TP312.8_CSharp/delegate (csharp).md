@@ -17,6 +17,9 @@ tags:
 
 ```csharp
 // An example of create and use delegate
+// Declare a delegate
+public delegate void Callback(string message);
+
 // Create a method for a delegate.
 public static void DelegateMethod(string message)
 {
@@ -32,7 +35,7 @@ handler("Hello World");
 
 委托是[[event (csharp)|事件]]的基础（Delegates are the basis for [[event (csharp)|Events]] ( https://learn.microsoft.com/en-gb/dotnet/csharp/programming-guide/events/ )）。
 
-.NET 中提供了 [[System.Action]] 和 [[System.Func]] 两种类型，为许多常见委托提供了通用实现。
+.NET 中提供了 [[Action delegate (csharp)|System.Action]] 和 [[Func delegate (csharp)|System.Func]] 两种类型，为许多常见委托提供了通用实现。
 
 如果需要以不安全的方式调用方法，或者需要更进一步地控制调用，可以使用[[function pointer (csharp)|函数指针]]。
 

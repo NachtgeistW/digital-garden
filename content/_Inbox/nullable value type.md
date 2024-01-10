@@ -6,9 +6,9 @@ type: concepts
 tags:
 ---
 
-%% ## Possible future work
+<!-- ## Possible future work
 
-- %%
+-  -->
 
 ## Reference Links
 
