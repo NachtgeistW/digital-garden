@@ -4,7 +4,6 @@ aliases:
 - C# 中的回调
 type: concepts
 tags: 
-draft: true
 ---
 
 > I just met you,  
@@ -42,8 +41,4 @@ The number is: 3
 
 ## Reference Links
 
-- 
-
-## See also
-
-- 
+- [Using Delegates - C# Programming Guide - C# | Microsoft Learn](https://learn.microsoft.com/en-gb/dotnet/csharp/programming-guide/delegates/using-delegates)
