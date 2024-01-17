@@ -1,9 +1,11 @@
 ---
-title: 
-aliases: Action, Action委托
+title: Action Delegate
+aliases:
+  - Action
+  - Action委托
 type: concepts
 tags: 
-draft: true
+- CSharp
 ---
 
 Action 是 C# 预先定义好的[[delegate (csharp)|委托]]之一。它封装了一个没有返回值的方法。
@@ -76,4 +78,4 @@ static void Main(string[] args)
 
 ## See also
 
-- 
+- [[Func Delegate (csharp)|Func委托]]

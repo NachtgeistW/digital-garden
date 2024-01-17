@@ -13,7 +13,7 @@
 协程全都是状态机  
   
  Is your type anti-allocator-aware? 2023/11/3 12:57:55  
-[[async]]好像也是  
+[[async (csharp)|async]] 好像也是  
   
  \[\[nodiscard, deprecated\]\] consteval Chlorie make_chlorie(); 2023/11/3 12:58:02  
 都是状态机  

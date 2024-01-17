@@ -1,4 +1,5 @@
 ---
+title: types
 aliases:
   - types
   - 类型

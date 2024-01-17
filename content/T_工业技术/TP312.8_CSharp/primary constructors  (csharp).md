@@ -1,9 +1,10 @@
 ---
-aliases: [主构造函数]
+title: primary constructors
+aliases: 主构造函数
 type: concepts
 tags:
   - constructor
-  - CSharp
+  - CSharp/CSharp12
 ---
 
 > Trarizon 2023-11-29 18:10:48  

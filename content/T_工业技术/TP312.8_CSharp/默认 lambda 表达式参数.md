@@ -2,8 +2,7 @@
 aliases: [default lambda parameters, 默认 lambda 参数]
 type: concepts
 tags:
-  - lambda
-  - CSharp
+  - CSharp/CSharp12
 ---
 
 从 C# 12 开始，你可以在 [[lambda 表达式]]里声明默认参数了：

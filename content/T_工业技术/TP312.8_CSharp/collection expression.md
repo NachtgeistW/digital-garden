@@ -1,6 +1,8 @@
 ---
 aliases: [集合表达式]
 type: concepts
+tags: 
+- CSharp/CSharp12
 ---
 
 C# 12 以前，根据不同的场景，创建不同的[[集合]]需要不同的语法。初始化  `List<int>` 的语法又与 `int[]` 或 `Span<int>` 不同。

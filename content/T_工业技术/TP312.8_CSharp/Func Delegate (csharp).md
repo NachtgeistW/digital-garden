@@ -1,8 +1,9 @@
 ---
-title: 
-aliases: 
+title: Func Delegate
+aliases: Func, Func委托
 type: concepts
 tags: 
+- CSharp
 ---
 
 Func 是 C# 预先定义好的[[delegate (csharp)|委托]]之一。它封装了一个有 `TResult` 类型的返回值的方法。

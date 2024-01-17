@@ -1,5 +1,5 @@
 ---
-title: 
+title: delegate
 aliases: 
 - 委托
 type: concepts
@@ -33,7 +33,7 @@ Callback handler = DelegateMethod;
 handler("Hello World");
 ```
 
-委托是[[event (csharp)|事件]]的基础（Delegates are the basis for [[event (csharp)|Events]] ( https://learn.microsoft.com/en-gb/dotnet/csharp/programming-guide/events/ )）。
+委托是[[event (csharp)|事件]]的基础。
 
 .NET 中提供了 [[Action Delegate (csharp)|System.Action]] 和 [[Func Delegate (csharp)|System.Func]] 两种类型，为许多常见委托提供了通用实现。
 

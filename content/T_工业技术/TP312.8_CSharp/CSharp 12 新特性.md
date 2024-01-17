@@ -2,7 +2,7 @@
 title: C# 12 新特性
 type: TOC
 tags:
-- CSharp
+- CSharp/CSharp12
 - whats_new
 ---
 

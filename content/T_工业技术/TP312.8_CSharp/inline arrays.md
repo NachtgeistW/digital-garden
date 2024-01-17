@@ -2,8 +2,7 @@
 aliases: [内联数组]
 type: concepts
 tags:
-  - array
-  - CSharp
+  - CSharp/CSharp12
 ---
 
 内联数组是一种大小固定的 `struct` 类型数组。给 runtime 团队和库作者用的，适合需要性能的地方，比如高性能计算和嵌入式系统。

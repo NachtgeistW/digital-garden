@@ -1,4 +1,5 @@
 ---
+title: reference type
 aliases:
   - 引用类型
 type: concepts
