@@ -1,5 +1,5 @@
 ---
-title: 《Tunes of the Kingdom: Evolving Physics and Sounds for 'The Legend of Zelda: Tears of the Kingdom'》
+title: 《Tunes of the Kingdom Evolving Physics and Sounds for 'The Legend of Zelda Tears of the Kingdom'》
 type: web-bookmark
 date: 2024-04-26 14:45
 publish: false
