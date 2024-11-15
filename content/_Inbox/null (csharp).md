@@ -1,15 +1,13 @@
 ---
 aliases:
-  - 空
+- 空
 type: concepts
-tags: 
-title: 
-draft: true
+tags:
 ---
 
-<!-- ## Possible future work
+%% ## Possible future work
 
--  -->
+- %%
 
 ## Reference Links
 

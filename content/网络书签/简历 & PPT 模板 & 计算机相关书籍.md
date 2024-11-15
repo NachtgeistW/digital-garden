@@ -1,0 +1,47 @@
+---
+type: web-bookmark
+date: 2023-12-06 16:46
+publish: true
+archive: 
+tags:
+---
+原文：[之前分享过的我私藏的... - @爱ss的年糕彤的微博 - 微博 (weibo.com)](https://weibo.com/6056744936/JuLgkbOM2?pagetype=fav)
+
+---
+
+之前分享过的我私藏的简历/PPT 模板/计算机相关书籍，很多人说🔗失效了，我这边重新发一遍。  
+  
+📖 关于简历  
+▪️模板 [![](http://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://weibo.cn/sinaurl?u=https%3A%2F%2Fpan.baidu.com%2Fs%2F12PudcedcS0nWqZNfQL3viw) 🐎：jz4l  
+也可以去网页版的“Wondercv超级简历”直接在线做简历，挺好用。  
+▫️校招求职攻略(简历制作看👇🏻图)：[![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_weibo_default.png)微博正文](https://m.weibo.cn/6056744936/4479551692850865)  
+▫️简历制作要点：[![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_weibo_default.png)微博正文](https://m.weibo.cn/6056744936/4473022267986891) [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_weibo_default.png)微博正文](https://m.weibo.cn/6056744936/4427379860265955)  
+▫️如何写一份优秀的简历：[![](http://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F19766230%2Fanswer%2F483223191)  
+❗️划重点：“一页纸，pdf版本，附上照片，写清楚毕业时间，不要彩色和乱七八糟布局“。  
+  
+📂 关于PPT：  
+▪️求职类 [![](http://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://weibo.cn/sinaurl?u=https%3A%2F%2Fpan.baidu.com%2Fs%2F1IovJQNRyLwOXoPPU_v7tbQ) 🐎: pae7  
+▪️计划书类 [![](http://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://weibo.cn/sinaurl?u=https%3A%2F%2Fpan.baidu.com%2Fs%2F1iE8dV9znRIWardU6VIIQrA) 🐎: gw8k  
+▪️论文答辩类：[![](http://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://weibo.cn/sinaurl?u=https%3A%2F%2Fpan.baidu.com%2Fs%2F1Sx4IM4uq3jb45Y903pkUTw) 🐎: tvsh  
+也可以去网页版“第一PPT”、“优品PPT”等找🆓模板，也很多。(我分享的本来还有述职类和通用类的，一分享就失效，实在发不出去，算了)  
+▫️PPT制作&论文答辩指南：[![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_weibo_default.png)微博正文](https://m.weibo.cn/6056744936/4513621147862298)  
+▫️如何做好PPT：[![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)如何做好 PPT？](https://weibo.cn/sinaurl?u=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F21149650%2Fanswer%2F151694335)  
+❗️划重点：“注意文字和背景色，字体搭配，文本框格式，小图标和格式刷的使用”。  
+  
+👩🏻‍💻关于计算机书单：  
+▪️电子书：[![](http://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://weibo.cn/sinaurl?u=https%3A%2F%2Fpan.baidu.com%2Fs%2F1W5LZYr9AQeBfY6UWxXj7vw) 🐎：ugbq  
+▫️书单安利-计算机相关技术书籍：[[网络书签/书单安利(五)——「计算机相关技术书籍」]]
+
+▫️互联网求职知识点&书单：[![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_weibo_default.png)微博正文](https://m.weibo.cn/6056744936/4431010227488234)  
+  
+以上是按分类整理出来的，简历和PPT都各有差不多100多个，随便找个你看着顺眼的用就行。模板只能做参考，内容比较重要。  
+  
+建议卷🌸或快速存，以后🔗再失效我会直接编辑这条博更新，私信问不回，互相节省时间哈～  
+  
+🚫 自存自用哈，禁商用。
+
+![[Pasted image 20231206164700.png]]
+
+![[Pasted image 20231206164707.png]]
+
+![[Pasted image 20231206164715.png]]

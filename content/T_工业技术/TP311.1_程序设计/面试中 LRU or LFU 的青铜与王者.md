@@ -1,7 +1,7 @@
 ---
 type: web-bookmark
 date: 2023-12-04 12:36
-publish: false
+publish: true
 archive: 
 tags: #面试 #LRU #LFU 
 ---

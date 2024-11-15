@@ -1,5 +1,4 @@
 ---
-title: value type
 aliases: 
 - 值类型
 type: concepts
