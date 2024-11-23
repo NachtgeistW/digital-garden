@@ -15,6 +15,8 @@ description:
 
 等施工完毕，欢迎随时回来。
 
+![[Claude_Monet_-_Tulip_fields_in_Holland_Musee_d_Orsay.jpg]]
+
 ---
 
 98-74 Ocean Street, Sky Height
