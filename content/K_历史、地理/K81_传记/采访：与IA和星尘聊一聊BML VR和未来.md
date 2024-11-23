@@ -1,8 +1,19 @@
-[采访：与IA和星尘聊一聊BML VR和未来 (weibo.com)](https://weibo.com/ttarticle/p/show?id=2309404131627574887412)
+---
+uid: 采访：与IA和星尘聊一聊BML VR和未来
+aliases: 
+title: 
+type: web-bookmark
+created-date: 2024-11-24 02:34
+publish: true
+archive: 
+tags:
+- VOCALOID/IA
+- VOCALOID/星尘
+---
 
 IA 和星尘真的超级可爱！
 
-​​**BML VR前夕，VNN中文站很高兴能邀请到[](https://weibo.cn/sinaurl?u=http%3A%2F%2Fweibo.com%2Fn%2F%E6%98%9F%E5%B0%98_Official%3Ffrom%3Dfeed%26loc%3Dat)[@星尘_Official](https://weibo.com/n/%E6%98%9F%E5%B0%98_Official) 和[](https://weibo.cn/sinaurl?u=http%3A%2F%2Fweibo.com%2Fn%2FIA-1stPLACE%3Ffrom%3Dfeed%26loc%3Dat)[@IA-1stPLACE](https://weibo.com/n/IA-1stPLACE) 作为嘉宾接受我们的采访，非常感谢两位能在百忙之中接受我们的采访  
+​​**BML VR前夕，VNN中文站很高兴能邀请到[@星尘_Official](https://weibo.com/n/%E6%98%9F%E5%B0%98_Official) 和[@IA-1stPLACE](https://weibo.com/n/IA-1stPLACE) 作为嘉宾接受我们的采访，非常感谢两位能在百忙之中接受我们的采访  
 **
 
 **VNN** **：今天很荣幸能请到 IA 和星尘接受我们的采访，首先先向粉丝们打个招呼吧！**
@@ -76,3 +87,5 @@ IA：明天的LIVE上，IA会为中国的粉丝们全力演唱，做出最好的
 封面图：[@kico酱](https://weibo.com/n/kico%E9%85%B1)
 
 ​​​​​
+---
+原文：[采访：与IA和星尘聊一聊BML VR和未来 (weibo.com)](https://weibo.com/ttarticle/p/show?id=2309404131627574887412)
