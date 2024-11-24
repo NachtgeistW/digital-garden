@@ -30,7 +30,7 @@ tags:
   
 👩🏻‍💻关于计算机书单：  
 ▪️电子书：[![](http://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://weibo.cn/sinaurl?u=https%3A%2F%2Fpan.baidu.com%2Fs%2F1W5LZYr9AQeBfY6UWxXj7vw) 🐎：ugbq  
-▫️书单安利-计算机相关技术书籍：[[网络书签/书单安利(五)——「计算机相关技术书籍」]]
+▫️书单安利-计算机相关技术书籍：[[书单安利(五)——「计算机相关技术书籍」 1]]
 
 ▫️互联网求职知识点&书单：[![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_weibo_default.png)微博正文](https://m.weibo.cn/6056744936/4431010227488234)  
   
