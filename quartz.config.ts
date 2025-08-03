@@ -52,7 +52,6 @@ const config: QuartzConfig = {
       },
     },
   },
-  generateSocialImages: true,
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
