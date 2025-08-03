@@ -1,12 +1,40 @@
 ---
 title: 
-aliases: 使用 async 和 await 的异步编程
+aliases:
+  - 异步编程（C#）
 type: concepts
-tags: 
-draft: true
+tags:
+  - CSharp
+draft: 
 ---
 
+C# 异步编程使用 [[async (csharp)|async]] / [[await (csharp)|await]] 关键字实现非阻塞操作，特别适用于 I/O 密集型任务。
 
+**命名约定：** 异步方法必须以 `Async` 后缀命名，这是微软的强制性约定。
+
+**返回类型：**
+
+- 无返回值：`async Task`
+- 有返回值：`async Task<T>`
+- 高性能场景：`async ValueTask`
+
+**UI 应用的重要性：**
+
+csharp
+
+```csharp
+// ❌ 阻塞 UI
+void LoadData() { 
+    var data = httpClient.GetString(url).Result; 
+}
+
+// ✅ 保持响应
+async Task LoadDataAsync() { 
+    var data = await httpClient.GetStringAsync(url); 
+}
+```
+
+异步编程让应用在等待 I/O 操作时能够保持响应性，提供更好的用户体验。
 
 ## Reference Links
 
